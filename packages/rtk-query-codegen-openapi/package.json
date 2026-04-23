@@ -39,7 +39,7 @@
     "@types/lodash": "^4.14.165",
     "@types/node": "^14.14.12",
     "@types/prettier": "^2.1.6",
-    "@types/semver": "^7.3.9",
+    "@types/semver": "^7.7.1",
     "babel-jest": "^26.6.3",
     "chalk": "^4.1.0",
     "del": "^6.0.0",
@@ -59,7 +59,7 @@
     "@rtk-query/oazapfts-patched": "^3.6.0-2",
     "commander": "^6.2.0",
     "prettier": "^2.2.1",
-    "semver": "^7.3.5",
+    "semver": "^7.7.4",
     "swagger2openapi": "^7.0.4",
     "typescript": ">=4.1 <=4.5"
   },
