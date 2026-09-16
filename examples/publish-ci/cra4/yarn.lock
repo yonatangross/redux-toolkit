@@ -3123,9 +3123,9 @@ __metadata:
   linkType: hard
 
 "@xmldom/xmldom@npm:^0.8.3":
-  version: 0.8.6
-  resolution: "@xmldom/xmldom@npm:0.8.6"
-  checksum: f17ac6d99a971a6aeb831fcfc5cfa86f367664e45815046548814b2deb17ccc421fef4e0d5ba29e66179d112b552f6caa5680064f8e7bd8a389b788a60404c8e
+  version: 0.8.15
+  resolution: "@xmldom/xmldom@npm:0.8.15"
+  checksum: efeb17d041ed73adb54c903fe959254a3b2155f820b127dbf0b5390a2b1436143bb34fab58c3f82e58aa910d0c5d4f1e205cd9370d39f098ec1ce8c6daf0424e
   languageName: node
   linkType: hard
 
@@ -4213,12 +4213,12 @@ __metadata:
   linkType: hard
 
 "brace-expansion@npm:^1.1.7":
-  version: 1.1.11
-  resolution: "brace-expansion@npm:1.1.11"
+  version: 1.1.21
+  resolution: "brace-expansion@npm:1.1.21"
   dependencies:
     balanced-match: ^1.0.0
     concat-map: 0.0.1
-  checksum: faf34a7bb0c3fcf4b59c7808bc5d2a96a40988addf2e7e09dfbb67a2251800e0d14cd2bfc1aa79174f2f5095c54ff27f46fb1289fe2d77dac755b5eb3434cc07
+  checksum: b841b4198a0ab8a1b433920ed65b46a9b4368c0ad1f95b2ed229a682c7d7d5b5839620204b5644a05c967d29e66bdf0a59b1115e74e0f27761d0dc02f5e0d835
   languageName: node
   linkType: hard
 
@@ -9935,14 +9935,14 @@ __metadata:
   linkType: hard
 
 "js-yaml@npm:^3.13.1":
-  version: 3.14.1
-  resolution: "js-yaml@npm:3.14.1"
+  version: 3.15.2
+  resolution: "js-yaml@npm:3.15.2"
   dependencies:
     argparse: ^1.0.7
     esprima: ^4.0.0
   bin:
     js-yaml: bin/js-yaml.js
-  checksum: bef146085f472d44dee30ec34e5cf36bf89164f5d585435a3d3da89e52622dff0b188a580e4ad091c3341889e14cb88cac6e4deb16dc5b1e9623bb0601fc255c
+  checksum: 774d62285fa9aad3883603a7186c58619b582f0257ccf4d7b518dc2dc5c7f88f14b649c1149112b4494da832ba824c35a3e2fda776a12dbe02e99f7adc3a8a47
   languageName: node
   linkType: hard
 
@@ -10968,11 +10968,11 @@ __metadata:
   linkType: hard
 
 "nanoid@npm:^3.3.4":
-  version: 3.3.4
-  resolution: "nanoid@npm:3.3.4"
+  version: 3.3.19
+  resolution: "nanoid@npm:3.3.19"
   bin:
     nanoid: bin/nanoid.cjs
-  checksum: 2fddd6dee994b7676f008d3ffa4ab16035a754f4bb586c61df5a22cf8c8c94017aadd360368f47d653829e0569a92b129979152ff97af23a558331e47e37cd9c
+  checksum: 9e7a9c78d81b3778844df795aa17da6fde77825eacee6c6e5776cac0055326d54cc1bfee71ad0a9a1f11556c93a243a63648228e6c6b24ae7d4f75f6d4466a99
   languageName: node
   linkType: hard
 
